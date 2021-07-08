@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @IgVincon, currently I'm working in a project which aims to improve the overall quality of the educational system
-by processing data from a child development census evaluation (e.g.: predicting grade retention and developing strategies to reduce it).
+by processing data from a child development census evaluation (e.g.: predicting grade retention and developing strategies to reduce it). 
+Link to the project: https://indi.psico.edu.uy/en
 - 👀 These are the kind of problems I'm interested in and are the reason I changed my focus from a purely academic interest in psychology
 to an applied one. Thus, helping in the decision-making processes and delivering results that can benefit society as a whole.
 - 🌱 I’m currently learning data science and psychometry in order to better achieve my interest's. Specifically I'm working on improving my SQL skills.
