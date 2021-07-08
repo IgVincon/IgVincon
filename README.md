@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgVincon, currently I'm working in a project which aims to improve the overall quality of the educational system
+- 👋 Hi, I’m @IgVincon, currently I'm working on a project which aims to improve the overall quality of the educational system
 by processing data from a child development census evaluation (e.g.: predicting grade retention and developing strategies to reduce it). 
 Link to the project: https://indi.psico.edu.uy/en
 - 👀 These are the kind of problems I'm interested in and are the reason I changed my focus from a purely academic interest in psychology
