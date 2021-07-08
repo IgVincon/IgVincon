@@ -7,6 +7,8 @@ to an applied one. Thus, helping in the decision-making processes and delivering
 - 💞️ I’m looking to collaborate on similar projects, and also willing to broaden my horizons to domains beyond psychology in an interdisciplinary fashion.
 - 📫 You can reach me by my LinkedIn profile: https://www.linkedin.com/in/jirvincon/?locale=en_US
 
+
+
 Recent work: https://github.com/IgVincon/small_scale_projects/blob/main/outreach_notebook_wip.ipynb
 <!---
 IgVincon/IgVincon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
