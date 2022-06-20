@@ -1,5 +1,5 @@
 # 👋 Hi there, 
-I’m @IgVincon, applied researcher in psychology and sole developer of [SIRS](https://github.com/IgVincon/sirs) (an ETL pipeline with some data journalism mixed into it). I have also worked as a core team member of [INDI](https://indi.psico.edu.uy/en) (a national scale applied research project) as a research assistant doing data analysis. 
+I’m @IgVincon, applied researcher in psychology and sole developer of [SIRS](https://github.com/IgVincon/sirs) (an ETL pipeline with some data journalism mixed into it). I have also worked as a core team member of [INDI](https://indi.psico.edu.uy/) (a national scale applied research project) as a research assistant doing data analysis. 
 
 Currently, I'm learning about: 🌱
 - Parallel processing
