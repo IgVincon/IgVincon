@@ -1,12 +1,19 @@
 # 👋 Hi there, 
-I’m @IgVincon, applied researcher in psychology and sole developer of [SIRS](https://github.com/IgVincon/sirs) (an ETL pipeline with some data journalism mixed into it). I have also worked as a core team member of [INDI](https://indi.psico.edu.uy/) (a national scale applied research project) as a research assistant doing data analysis. 
+I’m @IgVincon, former research assistant transitioning to software development. Previously, I worked as a core team member of [INDI](https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html) (a national scale applied research project) as a research assistant doing data analysis with Python. This brought me closer to the development side of things and got drawn in by the use of problem-solving skills and the possibility of creating something from scratch.
+
+My stack so far: ✔️
+- Python, Java, Pascal (learned this one while doing Programming 101)
+- SQL
+- NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, nltk
+- Requests, Beautiful Soup
+- Git
+- Principles of Software Testing (black & white, positive & negative, edge cases, etc.)
 
 Currently, I'm learning about: 🌱
-- Parallel processing
-- Dashboarding
-- NLP
+- Frontend development (HTML, CSS, JS)
+- Backend development (Django)
 
-💞️ I’m looking to collaborate on similar projects, and also willing to broaden my horizons to domains beyond psychology in an interdisciplinary fashion.
+💞️ I’m looking to collaborate on similar projects, and also willing to broaden my horizons.
 
 📫 You can reach me at: [my LinkedIn profile](https://www.linkedin.com/in/jirvincon/?locale=en_US)
 
