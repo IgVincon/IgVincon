@@ -1,5 +1,5 @@
 # 👋 Hi there, 
-I’m @IgVincon, former research assistant transitioning to software development. Previously, I worked as a core team member of [INDI](https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html) (a national scale applied research project) as a research assistant doing data analysis with Python. This brought me closer to the development side of things and got drawn in by the use of problem-solving skills and the possibility of creating something from scratch. Currently working as a Configuration Engineer for an American IT company working in the insurance sector.
+I’m @IgVincon, former research assistant transitioning to software development. Previously, I worked as a core team member of [INDI](https://www.ineed.edu.uy/socioemocional/experiencias/inventario-de-desarrollo-infantil-indi.html) (a national scale applied research project) as a research assistant doing data analysis with Python. This brought me closer to the development side of things and got drawn in by the use of problem-solving skills and the possibility of creating something from scratch. Currently working as a Configuration Engineer for an American IT company that provides services for the insurance sector.
 
 My stack so far: ✔️
 - Python, Java, Pascal (learned this one while doing Programming 101)
